@@ -17,6 +17,3 @@ I spent several days figuring out how to make exe from latest sources. If you wa
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_CZ/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Donate")](https://www.paypal.com/cgi-bin/webscr?cmd=cmd&hosted_button_id=2XFMTHGSP7S7C)
-![Paypal][(https://www.paypal.com/en_CZ/i/scr/pixel.gif "PayPal")
