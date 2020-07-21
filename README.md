@@ -4,6 +4,8 @@ Here you can download the latest Windows version (exe file build) of PrusaSlicer
 
 ### Download
 
+PrusaSlicer 2.3.0-alpha0
+
 [Download link](https://shorturl.at/gzZ14)
 
 Just extract the zip and run prusa-slicer.exe
