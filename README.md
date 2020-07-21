@@ -1,4 +1,4 @@
-## PrusaSlicer Latest Version Windows Build
+## PrusaSlicer 2.3.0-alpha0 Windows Build
 
 Here you can download the latest Windows version (exe file build) of PrusaSlicer, not officially released yet. It has the new upcoming features like ironing or monotonous infill which are awesome, so enjoy! ;)
 
